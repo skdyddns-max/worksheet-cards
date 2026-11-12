@@ -1,1 +1,108 @@
-{}
+{
+ "397c22bbc6d6": {
+  "frames": [
+   "m/397c22bbc6d6/1.webp",
+   "m/397c22bbc6d6/2.webp"
+  ],
+  "ms": 600
+ },
+ "1af71f75fc5e": {
+  "frames": [
+   "m/1af71f75fc5e/1.webp",
+   "m/1af71f75fc5e/2.webp",
+   "m/1af71f75fc5e/3.webp"
+  ],
+  "ms": 750,
+  "labels": [
+   "마실 거예요",
+   "마셔요",
+   "마셨어요"
+  ]
+ },
+ "30891d592afd": {
+  "frames": [
+   "m/30891d592afd/1.webp",
+   "m/30891d592afd/2.webp",
+   "m/30891d592afd/3.webp"
+  ],
+  "ms": 600,
+  "labels": [
+   "던질 거예요",
+   "던져요",
+   "던졌어요"
+  ]
+ },
+ "66400100763b": {
+  "frames": [
+   "m/66400100763b/1.webp",
+   "m/66400100763b/2.webp",
+   "m/66400100763b/3.webp"
+  ],
+  "ms": 600,
+  "labels": [
+   "찰 거예요",
+   "차요",
+   "찼어요"
+  ]
+ },
+ "9dd9bf197cd3": {
+  "frames": [
+   "m/9dd9bf197cd3/1.webp",
+   "m/9dd9bf197cd3/2.webp"
+  ],
+  "ms": 380
+ },
+ "fe7355c98893": {
+  "frames": [
+   "m/fe7355c98893/1.webp",
+   "m/fe7355c98893/2.webp",
+   "m/fe7355c98893/3.webp"
+  ],
+  "ms": 750,
+  "labels": [
+   "열 거예요",
+   "열어요",
+   "열었어요"
+  ]
+ },
+ "e3d9b064e10f": {
+  "frames": [
+   "m/e3d9b064e10f/1.webp",
+   "m/e3d9b064e10f/2.webp",
+   "m/e3d9b064e10f/3.webp"
+  ],
+  "ms": 750,
+  "labels": [
+   "쌓을 거예요",
+   "쌓아요",
+   "쌓았어요"
+  ]
+ },
+ "f381721f1640": {
+  "frames": [
+   "m/f381721f1640/1.webp",
+   "m/f381721f1640/2.webp"
+  ],
+  "ms": 600
+ },
+ "4f6b1b6cd9e5": {
+  "frames": [
+   "m/4f6b1b6cd9e5/1.webp",
+   "m/4f6b1b6cd9e5/2.webp"
+  ],
+  "ms": 380
+ },
+ "83e7d3f407f0": {
+  "frames": [
+   "m/83e7d3f407f0/1.webp",
+   "m/83e7d3f407f0/2.webp",
+   "m/83e7d3f407f0/3.webp"
+  ],
+  "ms": 750,
+  "labels": [
+   "자를 거예요",
+   "잘라요",
+   "잘랐어요"
+  ]
+ }
+}
